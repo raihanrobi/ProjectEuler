@@ -1,0 +1,22 @@
+c:\users\raiha\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.0\ConsoleApp2.deps.json
+c:\users\raiha\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.0\ConsoleApp2.runtimeconfig.json
+c:\users\raiha\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.0\ConsoleApp2.runtimeconfig.dev.json
+c:\users\raiha\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.0\ConsoleApp2.dll
+c:\users\raiha\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.0\ConsoleApp2.pdb
+c:\users\raiha\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.csprojResolveAssemblyReference.cache
+c:\users\raiha\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+c:\users\raiha\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.AssemblyInfoInputs.cache
+c:\users\raiha\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.AssemblyInfo.cs
+c:\users\raiha\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.dll
+c:\users\raiha\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.pdb
+C:\Users\raiha\Source\Repos\NewRepo\Problem 1\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\raiha\Source\Repos\NewRepo\Problem 1\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\raiha\Source\Repos\NewRepo\Problem 1\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\raiha\Source\Repos\NewRepo\Problem 1\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\raiha\Source\Repos\NewRepo\Problem 1\ConsoleApp2\bin\Debug\netcoreapp2.0\ConsoleApp2.deps.json
+C:\Users\raiha\Source\Repos\NewRepo\Problem 1\ConsoleApp2\bin\Debug\netcoreapp2.0\ConsoleApp2.runtimeconfig.json
+C:\Users\raiha\Source\Repos\NewRepo\Problem 1\ConsoleApp2\bin\Debug\netcoreapp2.0\ConsoleApp2.runtimeconfig.dev.json
+C:\Users\raiha\Source\Repos\NewRepo\Problem 1\ConsoleApp2\bin\Debug\netcoreapp2.0\ConsoleApp2.dll
+C:\Users\raiha\Source\Repos\NewRepo\Problem 1\ConsoleApp2\bin\Debug\netcoreapp2.0\ConsoleApp2.pdb
+C:\Users\raiha\Source\Repos\NewRepo\Problem 1\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.dll
+C:\Users\raiha\Source\Repos\NewRepo\Problem 1\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.pdb
